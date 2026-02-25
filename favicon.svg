@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Simple SVG favicon boilerplate: edit shapes/colors as you like -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="64" height="64" viewBox="0 0 64 64"
+     role="img" aria-labelledby="faviconTitle faviconDesc">
+  <title id="faviconTitle">Savings Calculator</title>
+  <desc id="faviconDesc">Blue rounded square with a white coin symbol</desc>
+
+  <rect x="0" y="0" width="64" height="64" fill="white" />
+
+  <rect x="0" y="48" width="16" height="16" fill="blue" style="stroke-width:1; stroke: white;" />
+  <rect x="16" y="32" width="16" height="32" fill="green"  style="stroke-width:1; stroke: white;"  />
+  <rect x="32" y="16" width="16" height="48" fill="orange"  style="stroke-width:1; stroke: white;"  />
+  <rect x="48" y="0" width="16" height="64" fill="red"  style="stroke-width:1; stroke: white;"  />
+</svg>

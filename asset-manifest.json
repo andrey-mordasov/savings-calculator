@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/savings-calculator/static/css/main.dbe377a9.css",
+    "main.js": "/savings-calculator/static/js/main.04a414d0.js",
+    "index.html": "/savings-calculator/index.html",
+    "main.dbe377a9.css.map": "/savings-calculator/static/css/main.dbe377a9.css.map",
+    "main.04a414d0.js.map": "/savings-calculator/static/js/main.04a414d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbe377a9.css",
+    "static/js/main.04a414d0.js"
+  ]
+}
